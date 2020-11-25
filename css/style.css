@@ -1,0 +1,172 @@
+body{
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+
+.hey{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto;
+  color: #66BFBF;
+
+}
+
+p{
+  font-family: 'Merriweather', serif;
+  margin: 0 auto;
+  line-height: 2;
+
+}
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.5rem;
+  color:#66BFBF;
+  font-weight: normal;
+
+}
+
+.top {
+  background-color: #EAF6F6 ;
+  padding-top: 100px;
+  position: relative;
+}
+
+.pic{
+height: 200px;
+width: 150px;
+margin:10px 0 0 0;
+position: relative;
+vertical-align: middle;
+
+}
+
+.middle {
+  background-color: #EAF6F6;
+
+}
+
+
+.bottom {
+  background-color: #66BFBF ;
+  padding: 10px 0 20px;
+
+}
+.intro{
+  width: 30%;
+text-align: justify;
+  margin: auto;
+}
+.birdcloud{
+  position: absolute;
+  right: 100px;
+  top: 35px;
+  width: 15%;
+}
+
+.cloud{
+  left: 200px;
+  position: absolute;
+  width: 15%;
+}
+
+.mountain{
+  width: 60%;
+}
+
+.skillsimg{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+
+
+}
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: justify;
+
+  font-size: 14px;
+}
+
+.h3 {
+  color: #11999E;
+}
+.footer-link{
+  color: #11999E;
+  padding-top: 10%;
+}
+
+.cr7img{
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr{
+  border-style: none;
+  border-color: white;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 5%;
+  margin: 100px auto 100px auto ;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.copyrights{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+.contact{
+  padding: 15px ;
+}
+
+.contact-message{
+  text-align: justify;
+  width: 40%;
+  margin: 40px auto 40px;
+}
+
+.mail-me {
+	box-shadow: 0px 11px 15px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:20px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Merriweather', serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 35px;
+	text-decoration:none;
+	text-shadow:-1px 0px 0px #3d768a;
+}
+.mail-me:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.mail-me:active {
+	position:relative;
+	top:1px;
+}
+
+
+.links{
+  padding-top: 10px;
+  color:#EAF6F6;
+}
